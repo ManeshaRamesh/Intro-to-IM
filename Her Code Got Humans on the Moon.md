@@ -1,5 +1,5 @@
  ### Reading Response
- The fact that, I have never heard MARGARET HAMILTON of  before despite her serious contribution to the Apollo Program as well as the 
+ The fact that, I have never heard of MARGARET HAMILTON before despite her serious contribution to the Apollo Program as well as the 
  initial conversation about the concept of software speaks to me about how male centric the technology industry was at the time of the 
  Space Race. However, I am glad this article reflects on female contribution to technology industry which is often shadowed by successful 
  equally talented male pioneers. One more thing that this article touches upon ever so slightly is accounting for human errors in human
