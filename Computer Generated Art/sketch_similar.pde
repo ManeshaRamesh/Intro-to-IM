@@ -70,7 +70,7 @@ void draw() {
   }
   
   println(run);
-  run = run + 1; //keeps count of the number of prints
+  run = run + 1; //keeps count of the number of runs
   }
   
 }
