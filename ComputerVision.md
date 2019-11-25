@@ -1,7 +1,5 @@
 #### Reading Response to Golan Levin’s notes on computer Vision for Artists
 
-I was vrey intrigued by teh various computer vision techniques listed in this article. Of course, many of them depended on certain physical conditions that 
-made the output function better. The fact that LimboTime was made in an afternoon using very simplet racking techniques was very interesting.
-Especially, for the pruposes of exhibits and art installations, we can define the physical conditions ourselves, so the emphasis is not on whether computer vision
-algorithm is flexible. The emphasis is on whether it delivers and the interaction is intuitive. Reading this article gave me a lot of ideas for
-my final project. It is a shame that I already wrote up the proposal to do something different.
+I was very intrigued by the various computer vision techniques listed in this article. Of course, many of them depended on certain physical conditions that made the output function better. The fact that LimboTime was made in an afternoon using very simplet racking techniques was very interesting.Especially, for the pruposes of exhibits and art installations, we can define the physical conditions ourselves, so the emphasis is not on whether computer vision algorithm is flexible to various physical factors. The emphasis is on whether it delivers a message and if the interaction is intuitive and seamless. Reading this article gave me a lot of ideas for my final project. It is a shame that I already wrote up the proposal to do something different.
+
+My favourite project listed here is Rafael Lozano-Hemmer's Standards and Double Standards because it grapples with the idea of surveillance and uses belts to represent the entity that does it. The interaction seems immersive and it not only delivers the message but makes you realize it. 
