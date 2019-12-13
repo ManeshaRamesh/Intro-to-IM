@@ -1,5 +1,6 @@
 ## Final Project Documentation
 
+### By Manesha Ramesh and Yeji Kwon
 #### Part one: project concept and description 
 
 The project “Free the blobbies” intends to create a simple and intuitive physical interface in which users rotate a cube in real space to control the rotations of a 2D digital box. When the digital box is rotated, blobbies, a name given to the bodies created using Box2D, shake out of the digital box based on the displacement of the vertices. Using this core function, we made a game through adding three different rounds which all have a time limit of 30 seconds and a change in the size of the body of the blobbies, making it more challenging for users to displace the blobbies out of the box. The game over condition was defined by the time running out while there were still bodies remaining in the box. The user would win the game if they successfully displaced all blobbies, the number of which were kept constant throughout the rounds, for all three rounds. 
