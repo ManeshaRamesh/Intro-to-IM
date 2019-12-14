@@ -15,6 +15,9 @@ In additional to the core function of the game, we intended to use visual elemen
 #### Part two: System Diagram of the Hardware
 
 ![Alt Text](Images/NanoBLE33.png)
+![Alt Text](Images/circuit.jpg)
+
+
 #### Part three: List of important Parts / Electronics
 
 
@@ -36,13 +39,13 @@ As the arduino was placed with the box, which was meant to be shaken around inte
 To create a box which was strong enough to withhold the force and movements exerted by the user, we chose to use an acryllic instead of cardboard as the main material of the box. We also made use of the laser cutting machine in the IM Lab to print the cube precisely using a template we made online. The cube was assembled and stuck together using acryllic glue. 
 
 
-![Alt Text](Images/diagram.jpg)
+![Alt Text](Images/box.png)
 
 - Display
 For the showcase, we prioritized showcasing the visuals of the program as the interactions and movements of the boxes and the blobbies were the core components of the game. Hence, we decided it was essential to have a large display of our software. 
 
 
-![Alt Text](Images/box.png)
+
 #### Part Four: Problems and how we handled them
 
 - Physics of 3D Modelling on Processing
