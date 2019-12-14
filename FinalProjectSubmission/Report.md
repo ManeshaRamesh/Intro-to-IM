@@ -9,32 +9,40 @@ In additional to the core function of the game, we intended to use visual elemen
 
 ![Alt Text](Images/playing.JPG)
 ![Alt Text](Images/playing2.JPG)
+![Alt Text](Images/working.JPG)
 
 
 #### Part two: System Diagram of the Hardware
 
-
+![Alt Text](Images/NanoBLE33.png)
 #### Part three: List of important Parts / Electronics
+
 
 - Arduino Nano 33 BLE: 
 The Accelerometer component of the arduino was used as input for the change in angles of the box. 
 
+![Alt Text](Images/diagram.jpg)
+
 - Force Sensor: 
 Instead of putting a button, which would bring too much attention due to the contrast on the black box, we added a black force sensor on the botton of the box which the users tapped to start and progress through the levels when they were ready to play. 
 
+![Alt Text](Images/pressureSensor.png)
 - Solderable Breadboard:
 As the arduino was placed with the box, which was meant to be shaken around intensely by the user, we chose to solder the wires to make make the connection between the wires and the breadboard more stable. 
 
 
+![Alt Text](Images/circuitBoard.png)
 - Laser Cut Acryllic Board
 To create a box which was strong enough to withhold the force and movements exerted by the user, we chose to use an acryllic instead of cardboard as the main material of the box. We also made use of the laser cutting machine in the IM Lab to print the cube precisely using a template we made online. The cube was assembled and stuck together using acryllic glue. 
 
 
+![Alt Text](Images/diagram.jpg)
 
 - Display
 For the showcase, we prioritized showcasing the visuals of the program as the interactions and movements of the boxes and the blobbies were the core components of the game. Hence, we decided it was essential to have a large display of our software. 
 
 
+![Alt Text](Images/box.png)
 #### Part Four: Problems and how we handled them
 
 - Physics of 3D Modelling on Processing
