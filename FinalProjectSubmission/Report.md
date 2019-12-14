@@ -1,4 +1,4 @@
-## Final Project Documentation
+# Final Project Documentation
 
 ### By Manesha Ramesh and Yeji Kwon
 #### Part one: project concept and description 
@@ -7,7 +7,7 @@ The project “Free the blobbies” intends to create a simple and intuitive phy
 
 In additional to the core function of the game, we intended to use visual elements of the game to tell a narrative. The blobbies, which represent humans, start confined within the boxes. Within the boundaries of the box, they are programmed to be the identical size to each other and monotone. The boundaries are symbolic of boundaries - whether enforced  by society or personal experiences - individual set of themselves. It is only after they are removed from these confinements, they turn diverse and unique in color, size, and shape. 
 
-![Alt Text](/Images/playing.JPG)
+![Alt Text](https://raw.githubusercontent.com/manesharamesh/Intro-to-IM/FinalProjectSubmission/Images/playing.JPG)
 ![Alt Text](/Images/playing2.JPG)
 
 
